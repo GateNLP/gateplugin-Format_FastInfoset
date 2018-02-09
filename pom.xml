@@ -32,6 +32,26 @@
 		</license>
 	</licenses>
 
+	<organization>
+		<name>GATE</name>
+		<url>http://gate.ac.uk</url>
+	</organization>
+
+	<developers>
+		<developer>
+			<id>gate-team</id>
+			<name>GATE Team</name>
+			<email>gate-developers@lists.sourceforge.net</email>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/GateNLP/gateplugin-Format_FastInfoset.git</connection>
+		<developerConnection>scm:git:git@github.com:GateNLP/gateplugin-Format_FastInfoset.git</developerConnection>
+		<url>https://github.com/GateNLP/gateplugin-Format_FastInfoset</url>
+	</scm>
+
+
 	<dependencies>
 
 		<dependency>
