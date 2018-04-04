@@ -19,7 +19,7 @@
 	<artifactId>format-fastinfoset</artifactId>
 	<version>8.5-SNAPSHOT</version>
 
-	<name>Format_FastInfoset</name>
+	<name>Format: FastInfoset</name>
 	<description>Document format parser and exporter for the FastInfoset compressed XML format.</description>
 
 	<licenses>
